@@ -14,6 +14,8 @@ There is a lot more info on the Readme.txt about program mode. Please check it o
 
 Any comments, feel free to DM me at twitter https://twitter.com/REptar or follow me on http://instagram.com/elreptar
 
+And also, if you want to invite me one roll, you can easily do it on https://www.paypal.me/pablozarateg
+
 Thanks!
 
 
@@ -24,4 +26,6 @@ Español:
 Hola! En el readme hay más información, pero les adelanto que lo inicié en diciembre del 2017 y he revelado ya unos 100 rollos de C41. El "aparato" consiste en una tapa para tanques AP que realiza la agitación de los rollos utilizando un servo. Está 
 programado en arduino, así que los tiempos son modificables sin problemas. 
 
-En las carpetas está desde el código hasta los STL para imprimirlo y ponerlo a trabajar. Chequen el readme.txt, ahí está la información más extendida del proyecto y sus instrucciones. Cualquier duda, pueden contactarme en twitter o instagram, https://twitter.com/REptar, http://instagram.com/elreptar. Y con gusto resuelvo sus dudas :) 
+En las carpetas está desde el código hasta los STL para imprimirlo y ponerlo a trabajar. Chequen el readme.txt, ahí está la información más extendida del proyecto y sus instrucciones. Recuerden comparar kola loka o el 'superglue' de su preferencia.
+
+Cualquier duda, pueden contactarme en twitter o instagram, https://twitter.com/REptar, http://instagram.com/elreptar. Y con gusto resuelvo sus dudas :) 
