@@ -16,6 +16,9 @@ Any comments, feel free to DM me at twitter https://twitter.com/REptar or follow
 
 And also, if you want to invite me one roll, you can easily do it on https://www.paypal.me/pablozarateg
 
+Video explaining here:
+https://youtu.be/VPRG-3OeSoE
+
 Thanks!
 
 
@@ -29,3 +32,6 @@ programado en arduino, así que los tiempos son modificables sin problemas.
 En las carpetas está desde el código hasta los STL para imprimirlo y ponerlo a trabajar. Chequen el readme.txt, ahí está la información más extendida del proyecto y sus instrucciones. Recuerden comparar kola loka o el 'superglue' de su preferencia.
 
 Cualquier duda, pueden contactarme en twitter o instagram, https://twitter.com/REptar, http://instagram.com/elreptar. Y con gusto resuelvo sus dudas :) 
+
+Video explicación, aquí:
+https://youtu.be/VPRG-3OeSoE
