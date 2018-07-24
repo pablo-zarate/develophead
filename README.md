@@ -1,45 +1,27 @@
 # develophead
-EN
+English: 
+Hi! Thanks for looking at my project!
 
-Develophead V1
+This is the Develophead, a project I started on Dec'17 to help me develop more C41 rolls without having to worry on the agitation, specially when bleaching time is about sixteen minutes. It was also called 'agitatron' but since I decided to open it for everyone, the name was changed. (that's why files are called that way) It is only for the AP brand of developing tanks, more to come with your help, I hope!
 
-The developed is a 'machine' cap designed for the AP developing tanks, to help in the agitation of film. It is made with Arduino and some 3d printing. It uses the default power of the Arduino (5V) on the USB, no need for extra. I use it with a portable battery or with an AC charger from a cell phone. You may want to adapt another kind of power input.
+As I am from México, my english is not that good, but here we go:
 
-There are to ways of operation, the first is with continuos agitation 180º, back and forth. The second way is continuos agitation the first 60s, and then doing 1 180º cycle every 14s. As it is build on Arduino, you can easily reprogram the pattern. Speed changes with the pot.
+The project is a cap that has one servo that moves the central core of the tank by 180 degrees on a cycle (goes back and forth), it only uses the arduino power (5v) which you can get from a external battery or the phone wall charger. You may even modify it to use another kinds of power source. (I plug it on the USB port of the arduino, which I know its wrong but haven't had any issues on 6 months of use)
 
-It's completely open! As the design was made on the old 123D Design (sorry!) I may port it later on Fusion and thinking in other brands of tanks.
+I've been using the developcap since Dec'17, testing parts and comparing the results from over a hundred c41 rolls, and also modifiying the program mode to get better results. The files I uploaded are the ones that I use and been working on. It may change a little on dimensions due to different printers or heads or even differences on tanks, but nothing that can't be fixed without superglue. (you will need some superglue BTW).
 
+There is a lot more info on the Readme.txt about program mode. Please check it out! Also, I modified a thingiverse file which is linked there. 
 
-Instructions: 
-
-Print with 100% infill. ABS may be better suited, but I used PLA with no problems (been using it with BW or C41 chem). I printed the prototype with the chinese Anet A8. 0.2 layer height is what I used.
-
-When soldering components, please leave 5 or 6cms of wire, so it fits inside the box. Also, keep in mind you need superglue to fix that parts. 
-
-Important: you need to get a pinless Arduino nano.
+Any comments, feel free to DM me at twitter https://twitter.com/REptar or follow me on http://instagram.com/elreptar
 
 Thanks!
 
 
-ES
+______
 
-Develophead V1
+Español:
 
-El agitatron es una ‘máquina’ diseñada para entrar en la tapa de los tanques AP y realizar las agitaciones. Está construida a partir de Arduino Nano e Impresión 3D. No necesita alimentación extra, más que la del USB de la placa para funcionar; recomiendo utilizar baterías externas por facilidad.
+Hola! En el readme hay más información, pero les adelanto que lo inicié en diciembre del 2017 y he revelado ya unos 100 rollos de C41. El "aparato" consiste en una tapa para tanques AP que realiza la agitación de los rollos utilizando un servo. Está 
+programado en arduino, así que los tiempos son modificables sin problemas. 
 
-Hay dos formas de operación, la primera es continuo, que son agitaciones de 180º de izquierda a derecha y de regreso eternamente. La segunda es que durante 60 segundos hará agitaciones continuas y después cada 14 segundos realizara solo una. (este patrón se puede retrogradar fácilmente desde el código). La velocidad se cambia con el potenciometro.
-
-
-Es libre, pueden modificarla, alterar su patrón de movimiento en el código, variar tamaños, adaptar a otros tanques, la idea ya está aquí.
-
-Instrucciones:
-
-Imprimir todo con 100% infill, puede hacerse en ABS, aunque yo usé PLA sin problemas. Recomiendo 0.2mm de altura. El original se imprimió en una Anet A8. 
-
-Al soldar todo dejar los cables en una longitud aproximada de 5 a 6 centímetros. La parte del Nano se pega con ‘superglue’ al triángulo de la tapa. La tapa de componentes tiene una pestaña con el fin de también ser pegado a la tapa del nano, es lo único extra que se hace post impresión. El nano se puede recuperar fácilmente levantando su tapa.
-
-IMPORTANTE: EL ARDUINO NANO DEBE SER SIN PINES O RETIRARLOS, si no no va a entrar.
-
-Caja de Arduino Nano original
-BLHeli Programming adapters Arduino Nano
-https://www.thingiverse.com/thing:894129
+En las carpetas está desde el código hasta los STL para imprimirlo y ponerlo a trabajar. Chequen el readme.txt, ahí está la información más extendida del proyecto y sus instrucciones. Cualquier duda, pueden contactarme en twitter o instagram, https://twitter.com/REptar, http://instagram.com/elreptar. Y con gusto resuelvo sus dudas :) 
