@@ -1,1 +1,9 @@
 Here is the code and scheme of parts and guide
+
+For instructions on how to upload the code to the board, you need first the Arduino IDE, you can get it here:
+
+https://www.arduino.cc/en/Main/Software
+
+Just download it, install, open the code located here, connect the board, check for recongnition, hit the Compile and upload code button.
+
+That's all!
